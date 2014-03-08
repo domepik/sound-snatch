@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+# Author: Dominik Penner
+# Coded in: Python3
+# Dependencies: requests
+#               http://docs.python-requests.org/
+
 import urllib.request
 import requests
 import sys
