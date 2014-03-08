@@ -2,8 +2,7 @@
 
 # Author: Dominik Penner
 # Coded in: Python3
-# Dependencies: requests
-#               http://docs.python-requests.org/
+# Dependencies: requests (http://docs.python-requests.org)
 
 import urllib.request
 import requests
